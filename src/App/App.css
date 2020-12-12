@@ -1,0 +1,16 @@
+html{
+    font-size: 14px;
+}
+.App{
+    background-color: #F5F6FF;
+    height: 100vh;
+}
+.container{
+    max-width: 1130px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.ambient{
+    flex: 0 1 16rem !important;
+}
